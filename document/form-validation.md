@@ -9,7 +9,7 @@ form-validation 插件简介和应用
 基本使用：
 ---
 
-```
+```php
 // 数据源
 $post = array(
     'name' => 'mike',
