@@ -20,5 +20,3 @@ make
 ```
 http://127.0.0.1:8879/?action=stream
 ```
-
-![截图](/images/QQ20160512-0@2x.png)
