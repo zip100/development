@@ -1,2 +1,2 @@
 # development
-像野草一样疯狂生长
+* [mjpg-streamer 摄像头监控](document/mjpg-streamer.md) 
