@@ -2,7 +2,7 @@
 
 * 安装 libjpeg-dev 库,并编译得到库文件
 
-```
+```shell
 yum install libjpeg*
 tar -zxvf mjpg-streamer-r63.tar.gz
 cd mjpg-streamer-r63
@@ -11,7 +11,7 @@ make
 
 * 启动服务
 
-```
+```shell
 ./mjpg_streamer -o "output_http.so -w ./www -p 8879"
 ```
 
@@ -20,3 +20,5 @@ make
 ```
 http://127.0.0.1:8879/?action=stream
 ```
+
+![截图](/images/QQ20160512-0@2x.png)
